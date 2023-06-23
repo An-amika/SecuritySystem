@@ -1,0 +1,130 @@
+ sh -c make -s
+ ./main
+1. Register
+2. Login
+3. Change Password
+4. Lock Account
+5. Unlock Account
+6. Check Password Expiry
+7. Quit
+Enter your choice: 1
+Enter username: Avni
+Enter password: Ac12
+Weak password. Registration failed. Please choose a stronger password.
+Password strength criteria: at least 8 characters, at least one uppercase letter, one lowercase letter, and one digit
+
+1. Register
+2. Login
+3. Change Password
+4. Lock Account
+5. Unlock Account
+6. Check Password Expiry
+7. Quit
+Enter your choice: 1
+Enter username: Avni
+Enter password: Avni12345
+Registration Successful!
+
+1. Register
+2. Login
+3. Change Password
+4. Lock Account
+5. Unlock Account
+6. Check Password Expiry
+7. Quit
+Enter your choice: 2
+Enter username: Avni
+Enter password: Avni12345
+Login Successful!
+
+1. Register
+2. Login
+3. Change Password
+4. Lock Account
+5. Unlock Account
+6. Check Password Expiry
+7. Quit
+Enter your choice: 2
+Enter username: anu
+Enter password: asdfr
+Invalid username or password.
+
+1. Register
+2. Login
+3. Change Password
+4. Lock Account
+5. Unlock Account
+6. Check Password Expiry
+7. Quit
+Enter your choice: 4
+Enter username: Avni
+Account locked successfully!
+
+1. Register
+2. Login
+3. Change Password
+4. Lock Account
+5. Unlock Account
+6. Check Password Expiry
+7. Quit
+Enter your choice: 3
+Enter username: Avni
+Enter current password: Avni12345
+Enter new password: India12345
+Account is locked. Please contact the administrator.
+
+1. Register
+2. Login
+3. Change Password
+4. Lock Account
+5. Unlock Account
+6. Check Password Expiry
+7. Quit
+Enter your choice: 5
+Enter username: Avni
+Account unlocked successfully!
+
+1. Register
+2. Login
+3. Change Password
+4. Lock Account
+5. Unlock Account
+6. Check Password Expiry
+7. Quit
+Enter your choice: 3
+Enter username: Avni
+Enter current password: Avni12345
+Enter new password: India12345
+Password changed successfully!
+
+1. Register
+2. Login
+3. Change Password
+4. Lock Account
+5. Unlock Account
+6. Check Password Expiry
+7. Quit
+Enter your choice: 6
+Enter username: Avni
+Your password will expire in 29 days.
+
+1. Register
+2. Login
+3. Change Password
+4. Lock Account
+5. Unlock Account
+6. Check Password Expiry
+7. Quit
+Enter your choice: 2
+Enter username: Avni
+Enter password: India12345
+Login Successful!
+
+1. Register
+2. Login
+3. Change Password
+4. Lock Account
+5. Unlock Account
+6. Check Password Expiry
+7. Quit
+Enter your choice: 7
